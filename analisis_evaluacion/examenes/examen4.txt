@@ -1,0 +1,2 @@
+pregunta 4:
+que es git log?
